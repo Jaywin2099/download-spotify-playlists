@@ -9,6 +9,7 @@ from requests import get
 from sys import argv, exit
 from json import loads
 from savify import Savify
+from savify.types import Format, Quality
 from savify.utils import PathHolder
 from savify.logger import Logger
 from subprocess import check_output
