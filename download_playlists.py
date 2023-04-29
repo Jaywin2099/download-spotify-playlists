@@ -1,5 +1,8 @@
 '''
 
+50 lines of code created by jacob winter
+updated 4/28/23
+
 '''
 
 from requests import get
